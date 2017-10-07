@@ -1138,10 +1138,6 @@ textarea {
   margin: 0 auto;
 }
 
-.no-scroll {
-  overflow-y: hidden;
-}
-
 .preloader {
   background: #fff url("../img/preloader.gif") 50% 50% no-repeat;
   position: fixed;
